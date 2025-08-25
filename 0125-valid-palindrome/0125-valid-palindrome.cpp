@@ -1,18 +1,32 @@
 class Solution {
-public:
-    bool isPalindrome(string s) {
-        int left=0,right=s.size()-1;
-        while(left<right){
-            while(left<right && !isalnum(s[left])){left++;
-            }
-            while(left<right && !isalnum(s[right])){right--;
-            }
-            if(tolower(s[left])!=tolower(s[right])){
+    bool valid(char c) {
+        return ( (c >= 'a' && c <= 'z') || 
+                 (c >= 'A' && c <= 'Z') || 
+                 (c >= '0' && c <= '9') );
+    }
+    bool checkPalindrome(string a) {
+        int s = 0;
+        int e = a.length() - 1;
+
+        while (s <= e) {
+            if (tolower(a[s]) != tolower(a[e])) {
                 return false;
+            } else {
+                s++;
+                e--;
             }
-            left++;
-            right--;
         }
         return true;
+    }
+
+public:
+    bool isPalindrome(string s) {
+        string temp = "";
+        for (int j = 0; j < s.length(); j++) {
+            if (valid(s[j])) {
+                temp.push_back(s[j]);
+            }
+        }
+        return checkPalindrome(temp);
     }
 };
