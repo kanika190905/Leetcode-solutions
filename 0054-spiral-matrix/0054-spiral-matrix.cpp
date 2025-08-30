@@ -4,6 +4,7 @@ public:
         vector<int> neww;
         int r=matrix.size();
         int c=matrix[0].size();
+        neww.reserve(r*c);
         int SR=0,SC=0;
         int EC=c-1;
         int ER=r-1;
