@@ -5,11 +5,10 @@ public:
         int c=matrix[0].size();
         int row=0,col=c-1;
         while(row<r && col>=0){
-            int element=matrix[row][col];
-            if(element==target){
+            if(matrix[row][col]==target){
                 return 1;
             }
-            else if(element<target){
+            else if(matrix[row][col]<target){
                 row++;
             }
             else{
