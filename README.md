@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kanika190905/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1168-duplicate-zeros](https://github.com/kanika190905/Leetcode-solutions/tree/master/1168-duplicate-zeros) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/kanika190905/Leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanika190905/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/kanika190905/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/kanika190905/Leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kanika190905/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kanika190905/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/kanika190905/Leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kanika190905/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/kanika190905/Leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
