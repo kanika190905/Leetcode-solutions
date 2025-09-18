@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kanika190905/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kanika190905/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/kanika190905/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -108,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kanika190905/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kanika190905/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kanika190905/Leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kanika190905/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kanika190905/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
