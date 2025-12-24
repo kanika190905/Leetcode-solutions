@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanika190905/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/kanika190905/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kanika190905/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kanika190905/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kanika190905/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/kanika190905/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -129,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanika190905/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kanika190905/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kanika190905/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kanika190905/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
