@@ -143,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kanika190905/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kanika190905/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kanika190905/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
