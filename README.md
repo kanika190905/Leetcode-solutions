@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/kanika190905/Leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/kanika190905/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1168-duplicate-zeros](https://github.com/kanika190905/Leetcode-solutions/tree/master/1168-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kanika190905/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kanika190905/Leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kanika190905/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kanika190905/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union Find
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -326,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/kanika190905/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanika190905/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
