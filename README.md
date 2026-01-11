@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/kanika190905/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kanika190905/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kanika190905/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanika190905/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kanika190905/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/kanika190905/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
