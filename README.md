@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kanika190905/Leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanika190905/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/kanika190905/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kanika190905/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3453-separate-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3453-separate-squares-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kanika190905/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3453-separate-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3453-separate-squares-i) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kanika190905/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/kanika190905/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
