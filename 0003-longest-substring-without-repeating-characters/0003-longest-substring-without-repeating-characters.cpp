@@ -4,9 +4,9 @@ public:
         if(s.empty()) return 0;
         int maxi=INT_MIN,cnt=0,cnt2=0;
        int l=0,r=0;
-       unordered_map<char,int> m;
+       vector<int> m(256,-1);
         while(r<s.size()){
-            if(m.count(s[r]) && m[s[r]]>=l){
+            if (m[s[r]]>=l){
                 l=m[s[r]]+1;
             }
             cnt=r-l+1;
