@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanika190905/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1168-duplicate-zeros](https://github.com/kanika190905/Leetcode-solutions/tree/master/1168-duplicate-zeros) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kanika190905/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kanika190905/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kanika190905/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kanika190905/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kanika190905/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## String
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanika190905/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search Tree
 |  |
