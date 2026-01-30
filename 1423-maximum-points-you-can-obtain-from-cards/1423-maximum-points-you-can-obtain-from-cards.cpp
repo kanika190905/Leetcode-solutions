@@ -6,16 +6,15 @@ public:
         for(int i=0;i<cardPoints.size();i++){
             totalSum+=cardPoints[i];
         }
-        int l=0,r=0,sum=0,mini=INT_MAX,cnt=0;
+        if(k==cardPoints.size()) return totalSum;
+        int l=0,r=0,sum=0,mini=INT_MAX;
         while(r<cardPoints.size()){
-            cnt++;
-            if(cnt>n && l!=cardPoints.size()-1){
+            if(r-l+1 > n){
                 sum-=cardPoints[l];
                 l++;
-                cnt--;
             }
             sum+=cardPoints[r];
-            if(cnt==n)
+            if(r-l+1 ==n)
             mini=min(mini,sum);
             r++;
         }
