@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kanika190905/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kanika190905/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kanika190905/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/kanika190905/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kanika190905/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kanika190905/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanika190905/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/kanika190905/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -593,4 +595,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kanika190905/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kanika190905/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kanika190905/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
