@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kanika190905/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kanika190905/Leetcode-solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/kanika190905/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kanika190905/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kanika190905/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kanika190905/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kanika190905/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/kanika190905/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/0258-add-digits) |
