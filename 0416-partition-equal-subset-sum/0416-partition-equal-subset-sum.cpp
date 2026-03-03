@@ -10,11 +10,10 @@ public:
         vector<bool> curr((sum/2) + 1, false);
 
         prev[0] = true;
-
+         curr[0] = true; 
         if(nums[0] <= (sum/2))
             prev[nums[0]] = true;
         for(int ind=1;ind<nums.size();ind++){
-            curr[0] = true; 
             for(int target=1;target<=sum/2;target++){
                 bool notTake=prev[target];
                 bool take=false;
