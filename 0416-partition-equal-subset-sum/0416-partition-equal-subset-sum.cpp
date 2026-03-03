@@ -6,22 +6,25 @@ public:
             sum+=nums[i];
         }
         if(sum%2!=0) return false;
-        vector<vector<bool>> dp(nums.size(),vector<bool>((sum/2)+1,0));
-        for(int i=0;i<nums.size();i++){
-            dp[i][0]=true;
-        }
-       if(nums[0] <= sum/2)
-            dp[0][nums[0]] = true;
+        vector<bool> prev((sum/2) + 1, false);
+        vector<bool> curr((sum/2) + 1, false);
+
+        prev[0] = true;
+
+        if(nums[0] <= (sum/2))
+            prev[nums[0]] = true;
         for(int ind=1;ind<nums.size();ind++){
+            curr[0] = true; 
             for(int target=1;target<=sum/2;target++){
-                bool notTake=dp[ind-1][target];
+                bool notTake=prev[target];
                 bool take=false;
                 if(nums[ind]<=target){
-                take=dp[ind-1][target-nums[ind]];
+                take=prev[target-nums[ind]];
             }
-            dp[ind][target]=take|notTake;
+            curr[target]=take|notTake;
             }
+            prev=curr;
         }
-        return dp[nums.size()-1][sum/2];
+        return prev[sum/2];
     }
 };
