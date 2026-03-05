@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kanika190905/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kanika190905/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/kanika190905/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kanika190905/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/kanika190905/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kanika190905/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/kanika190905/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kanika190905/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanika190905/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanika190905/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
@@ -627,4 +631,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kanika190905/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kanika190905/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
