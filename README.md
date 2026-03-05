@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/kanika190905/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/kanika190905/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1092-shortest-common-supersequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kanika190905/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kanika190905/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanika190905/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1092-shortest-common-supersequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kanika190905/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Depth-First Search
