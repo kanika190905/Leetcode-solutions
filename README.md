@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/kanika190905/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/kanika190905/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -658,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kanika190905/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
