@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kanika190905/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kanika190905/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1672-richest-customer-wealth](https://github.com/kanika190905/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kanika190905/Leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kanika190905/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kanika190905/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kanika190905/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Depth-First Search
 |  |
 | ------- |
