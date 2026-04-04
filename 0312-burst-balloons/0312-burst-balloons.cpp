@@ -1,31 +1,29 @@
 class Solution {
 public:
-    int f(int i, int j, vector<int>& nums, vector<vector<int>>& dp){
-        if(i > j) return 0;
-
-        if(dp[i][j] != -1) return dp[i][j];
-
-        int costm = 0;
-
-        for(int idx = i; idx <= j; idx++){
-            int cost = nums[i-1] * nums[idx] * nums[j+1]
-                     + f(i, idx-1, nums, dp)
-                     + f(idx+1, j, nums, dp);
-
-            costm = max(costm, cost);
-        }
-
-        return dp[i][j] = costm;
-    }
-
     int maxCoins(vector<int>& nums) {
         int n = nums.size();
 
+        // pad with 1
         nums.insert(nums.begin(), 1);
         nums.push_back(1);
 
-        vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
+        vector<vector<int>> dp(n+2, vector<int>(n+2, 0));
 
-        return f(1, n, nums, dp);
+        // length of interval
+        for(int len = 1; len <= n; len++){
+            for(int i = 1; i <= n - len + 1; i++){
+                int j = i + len - 1;
+
+                for(int idx = i; idx <= j; idx++){
+                    int cost = nums[i-1] * nums[idx] * nums[j+1]
+                             + dp[i][idx-1]
+                             + dp[idx+1][j];
+
+                    dp[i][j] = max(dp[i][j], cost);
+                }
+            }
+        }
+
+        return dp[1][n];
     }
 };
