@@ -8,25 +8,25 @@ public:
         return true;
     }
 
-    int f(int i, string& s, vector<int>& dp){
-        if(i == s.size()) return 0;
+    int minCut(string s) {
+        int n = s.size();
+        vector<int> dp(n + 1, 0);
 
-        if(dp[i] != -1) return dp[i];
+        dp[n] = 0; // base case
 
-        int mini = INT_MAX;
+        for(int i = n - 1; i >= 0; i--){
+            int mini = INT_MAX;
 
-        for(int j = i; j < s.size(); j++){
-            if(isPalindrome(s, i, j)){
-                int cost = 1 + f(j+1, s, dp);
-                mini = min(mini, cost);
+            for(int j = i; j < n; j++){
+                if(isPalindrome(s, i, j)){
+                    int cost = 1 + dp[j + 1];
+                    mini = min(mini, cost);
+                }
             }
+
+            dp[i] = mini;
         }
 
-        return dp[i] = mini;
-    }
-
-    int minCut(string s) {
-        vector<int> dp(s.size(), -1); // FIXED
-        return f(0, s, dp) - 1;
+        return dp[0] - 1;
     }
 };
