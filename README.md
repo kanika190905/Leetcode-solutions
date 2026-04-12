@@ -709,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kanika190905/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
