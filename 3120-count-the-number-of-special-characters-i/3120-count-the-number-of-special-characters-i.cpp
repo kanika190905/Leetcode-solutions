@@ -1,25 +1,16 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        unordered_map<char,int> m(0);
-        unordered_map<char,int> m2(0);
+        vector<int> l(26,0);
+        vector<int> u(26,0);
+        
         int cnt=0;
         for(int i=0;i<word.size();i++){
-            if(m2[toupper(word[i])]>0 && m[tolower(word[i])]>0 ) continue;
-             if(word[i]-'a'>=0 && word[i]-'a'<26){
-                if(m2[toupper(word[i])]){
-                    cnt++;
-                }
-                
-                    m[word[i]]++;
-             }
-             else{
-                if(m[tolower(word[i])]){
-                    cnt++;
-                }
-                
-                    m2[word[i]]++;
-             }
+           if(isupper(word[i])) u[word[i]-'A']++;
+           else l[word[i]-'a']++;
+        }
+        for(int i=0;i<26;i++){
+            if(l[i] && u[i]) cnt++;
         }
         return cnt;
     }
