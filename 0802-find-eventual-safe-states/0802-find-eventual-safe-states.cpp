@@ -1,36 +1,49 @@
 class Solution {
 public:
-bool dfs(int node,vector<bool>& vis,vector<bool>& pathvis,vector<vector<int>>& adj,vector<bool>& check){
-        vis[node]=1;
-        pathvis[node]=1;
-        for(auto it:adj[node]){
-            if(!vis[it]){
-               if( dfs(it,vis,pathvis,adj,check)) return true;
-            }
-            else if(pathvis[it]){
-                 return true;
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        int n = graph.size();
+
+        // Reverse graph
+        vector<vector<int>> revGraph(n);
+
+        // indegree in reversed graph = outdegree in original graph
+        vector<int> indegree(n, 0);
+
+        for (int u = 0; u < n; u++) {
+            indegree[u] = graph[u].size();   // outdegree of original graph
+
+            for (int v : graph[u]) {
+                revGraph[v].push_back(u);
             }
         }
-        pathvis[node]=0;
-        check[node]=1;
-        return false;
-    }
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n=graph.size();
-        vector<bool> vis(n,0);
-        vector<bool> check(n,0);
-        vector<bool> pathvis(n,0);
-        vector<int> ans;
-        for(int i=0;i<n;i++){
-                if(!vis[i]){
-                     dfs(i,vis,pathvis,graph,check);
-                }
+
+        queue<int> q;
+
+        // Push all terminal nodes
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0)
+                q.push(i);
+        }
+
+        vector<int> safe;
+
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+
+            safe.push_back(node);
+
+            // Traverse parents in reversed graph
+            for (int parent : revGraph[node]) {
+                indegree[parent]--;
+
+                if (indegree[parent] == 0)
+                    q.push(parent);
             }
-            for(int i=0;i<n;i++){
-                            if(check[i]){
-                                ans.push_back(i);
-                            }
-                        }
-            return ans;
+        }
+
+        sort(safe.begin(), safe.end());
+
+        return safe;
     }
 };
