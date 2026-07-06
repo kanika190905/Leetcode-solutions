@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kanika190905/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kanika190905/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanika190905/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kanika190905/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanika190905/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kanika190905/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2126-destroying-asteroids](https://github.com/kanika190905/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
