@@ -16,7 +16,7 @@ public:
             int stops=it.first;
             int node=it.second.first;
             int distance=it.second.second;
-            if(stops>k) continue;
+           
             for(auto itr:adj[node]){
                 int adjNode=itr.first;
                 int d=itr.second;
