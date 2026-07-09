@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/kanika190905/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/kanika190905/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3453-separate-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/kanika190905/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kanika190905/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kanika190905/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/kanika190905/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -835,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/kanika190905/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kanika190905/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kanika190905/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
