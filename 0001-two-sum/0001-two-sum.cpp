@@ -1,24 +1,24 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int l=0,r=nums.size()-1;
-        vector<int> ans;
+        
         vector<pair<int,int>> withIdx;
-        for(int i=0;i<=r;i++){
+        for(int i=0;i<nums.size();i++){
             withIdx.push_back({nums[i],i});
         }
+        int i=0,j=nums.size()-1;
         sort(withIdx.begin(),withIdx.end());
-        while(l<r){
-            if(withIdx[l].first+withIdx[r].first==target){
-                ans.push_back(withIdx[l].second);
-                ans.push_back(withIdx[r].second);
-                break;
+        while(i<j){
+            if(withIdx[i].first+withIdx[j].first==target){
+                return{withIdx[i].second,withIdx[j].second};
             }
-            else if(withIdx[l].first+withIdx[r].first<target){
-                l++;
+            else if(withIdx[i].first+withIdx[j].first>target){
+                j--;
             }
-            else r--;
+            else{
+                i++;
+            }
         }
-        return ans;
+        return {-1};
     }
 };
