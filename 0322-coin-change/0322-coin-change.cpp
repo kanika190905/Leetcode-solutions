@@ -1,25 +1,32 @@
 class Solution {
 public:
-    int helper(int i,vector<int>& coins, int amount,vector<vector<int>>& dp){
-        if(amount==0){
-            return 0;
-        }
-        if(i<0){
-            return 1e9;
-        }
-        if(dp[i][amount]!=-1) return dp[i][amount];
-        int take=INT_MAX;
-        if(coins[i]<=amount)
-         take=1+helper(i,coins,amount-coins[i],dp);
-        int notTake=helper(i-1,coins,amount,dp);
-        return dp[i][amount]=min(take,notTake);
-    }
     int coinChange(vector<int>& coins, int amount) {
-        vector<vector<int>> dp(coins.size(),vector<int>(amount+1,-1));
-        if(helper(coins.size()-1,coins,amount,dp)==1e9){
-           return -1;
-        }
-        else return helper(coins.size()-1,coins,amount,dp);
 
+        int n = coins.size();
+        vector<vector<int>> dp(n + 1, vector<int>(amount + 1, 1e9));
+
+        // amount = 0 needs 0 coins
+        for (int i = 0; i <= n; i++)
+            dp[i][0] = 0;
+
+        for (int i = 1; i <= n; i++) {
+
+            for (int amt = 1; amt <= amount; amt++) {
+
+                int notTake = dp[i - 1][amt];
+
+                int take = 1e9;
+
+                if (coins[i - 1] <= amt)
+                    take = 1 + dp[i][amt - coins[i - 1]];
+
+                dp[i][amt] = min(take, notTake);
+            }
+        }
+
+        if (dp[n][amount] >= 1e9)
+            return -1;
+
+        return dp[n][amount];
     }
 };
