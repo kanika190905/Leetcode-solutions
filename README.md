@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/kanika190905/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/kanika190905/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/kanika190905/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
