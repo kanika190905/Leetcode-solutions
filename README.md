@@ -931,4 +931,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kanika190905/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
