@@ -5,14 +5,15 @@ public:
         color[node]='G';
         for(auto it:adj[node]){
             if(color[it]=='W'){
-                 parent[it]=node;
                 if(dfs(it,color,adj,parent)) {
+                    parent[it]=node;
                     color[node] = 'B';
                     if(start!=-1) return true;
                     return true;}
             }
             else{
                 if(color[it]=='G') {
+                    parent[it]=node;
                     color[node] = 'B';
                     start=node;
                     last=it;
