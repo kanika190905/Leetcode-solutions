@@ -1,43 +1,75 @@
 class Solution {
 public:
+class DisjointSet {
+    vector<int> rank, parent, size;
+
+public:
+    DisjointSet(int n) {
+        rank.resize(n , 0);
+        parent.resize(n);
+        size.resize(n );
+
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+            size[i] = 1;
+        }
+    }
+
+    // Find with Path Compression
+    int findPar(int node) {
+        if (node == parent[node])
+            return node;
+
+        return parent[node] = findPar(parent[node]);
+    }
+ void unionBySize(int u, int v) {
+        int ulp_u = findPar(u);
+        int ulp_v = findPar(v);
+
+        if (ulp_u == ulp_v)
+            return;
+
+        if (size[ulp_u] < size[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+            size[ulp_v] += size[ulp_u];
+        }
+        else {
+            parent[ulp_v] = ulp_u;
+            size[ulp_u] += size[ulp_v];
+        }
+    }
+};
     int swimInWater(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m=grid[0].size();
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
+        int n=grid.size();
+        vector<vector<bool>> active(n,vector<bool>(n,false));
+        DisjointSet dsu(grid.size()*grid[0].size());
+        int start=0;
+        int end=n*n-1;
+         vector<pair<int,int>> pos(n * n);
 
-        priority_queue<
-            pair<int, pair<int,int>>,
-            vector<pair<int, pair<int,int>>>,
-            greater<pair<int, pair<int,int>>>
-        > pq;
-
-        dist[0][0] = grid[0][0];
-
-        pq.push({grid[0][0], {0, 0}});
-
-        int dr[] = {1, 0, -1, 0};
-        int dc[] = {0, 1, 0, -1};
-
-        while(!pq.empty()){
-            auto [time,it]=pq.top();
-            pq.pop();
-            int r=it.first;
-            int c=it.second;
-            if(r==n-1 && c==m-1) return time;
-            if(time>dist[r][c]) continue;
-           
-            for(int k=0;k<4;k++){
-                int nr=r+dr[k];
-                int nc=c+dc[k];
-                if(nr>=0 && nc>=0 && nr<n && nc<m){
-                    int maxi=max(time,grid[nr][nc]);
-                    if(maxi<dist[nr][nc]){
-                        dist[nr][nc]=maxi;
-                        pq.push({dist[nr][nc],{nr,nc}});
-                    }
-                }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                pos[grid[i][j]] = {i, j};
             }
         }
-        return dist[n-1][m-1];
+         int dr[] = {1, 0, -1, 0};
+        int dc[] = {0, 1, 0, -1};
+        for(int i=0;i<(n*n);i++){
+            int row=pos[i].first;
+            int col=pos[i].second;
+            active[row][col]=true;
+            for(int k=0;k<4;k++){
+                int newr=row+dr[k];
+                int newc=col+dc[k];
+                if(newr>=0 && newc>=0 && newr<n && newc<n && active[newr][newc]){
+                    dsu.unionBySize(row*n+col,newr*n+newc);
+                }
+            }
+            if(dsu.findPar(0)==dsu.findPar(n*n-1)){
+                return i;
+            }
+        }
+        return 0;
+        
     }
 };
