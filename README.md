@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kanika190905/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kanika190905/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kanika190905/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/kanika190905/Leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kanika190905/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kanika190905/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kanika190905/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/kanika190905/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kanika190905/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/kanika190905/Leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/kanika190905/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kanika190905/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kanika190905/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kanika190905/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kanika190905/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kanika190905/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanika190905/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kanika190905/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kanika190905/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kanika190905/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kanika190905/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kanika190905/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanika190905/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kanika190905/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -840,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/kanika190905/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanika190905/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/kanika190905/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
@@ -861,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kanika190905/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kanika190905/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/kanika190905/Leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kanika190905/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/kanika190905/Leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kanika190905/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -1027,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
@@ -1036,4 +1044,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kanika190905/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
