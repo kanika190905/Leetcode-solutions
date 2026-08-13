@@ -1,28 +1,35 @@
 class Solution {
 public:
-    int solve(int i,vector<int>& nums, int target,vector<vector<int>>& dp,int n){
-        if(target > n || target < -n) return 0;
-        if(i==nums.size() && target==0){
-            return 1;
-        }
-        else if(i==nums.size() ){
-            return 0;
-        }
-        
-        if(dp[i][target+n]!=1e9) return dp[i][target+n];
-        int add=0;
-        
-         add=solve(i+1,nums,target-nums[i],dp,n);
-        int sub=solve(i+1,nums,target+nums[i],dp,n);
-       
-        
-        return dp[i][target+n]=add+sub;
-    }
     int findTargetSumWays(vector<int>& nums, int target) {
-       int sum=0;
-        for(int x:nums) sum+=x;
-        int n=nums.size();
-        vector<vector<int>> dp(nums.size(),vector<int>((2*sum)+1,1e9));
-        return solve(0,nums,target,dp,sum);
+        int sum = 0;
+
+        for(int x : nums)
+            sum += x;
+
+        if(target > sum || target < -sum)
+            return 0;
+
+        int n = nums.size();
+
+        vector<vector<int>> dp(n + 1, vector<int>(2 * sum + 1, 0));
+
+        dp[n][sum] = 1;
+
+        for(int i = n - 1; i >= 0; i--) {
+            for(int j = -sum; j <= sum; j++) {
+                int add = 0;
+                int sub = 0;
+
+                if(j - nums[i] >= -sum && j - nums[i] <= sum)
+                    add = dp[i + 1][j - nums[i] + sum];
+
+                if(j + nums[i] >= -sum && j + nums[i] <= sum)
+                    sub = dp[i + 1][j + nums[i] + sum];
+
+                dp[i][j + sum] = add + sub;
+            }
+        }
+
+        return dp[0][target + sum];
     }
 };
