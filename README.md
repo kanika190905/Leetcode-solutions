@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kanika190905/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kanika190905/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kanika190905/Leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanika190905/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kanika190905/Leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/kanika190905/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanika190905/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kanika190905/Leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Backtracking
 |  |
