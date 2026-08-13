@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kanika190905/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/kanika190905/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kanika190905/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/kanika190905/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1040,10 +1043,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/kanika190905/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Minimax
 |  |
 | ------- |
