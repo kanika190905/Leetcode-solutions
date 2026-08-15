@@ -1,17 +1,28 @@
 class Solution {
 public:
-    int noOfWays(int i,int n,vector<vector<int>>& dp){
-        if(n==0){
-            return 1;
-        }
-        if(n<0) return 0;
-        if(dp[i][n]!=-1) return dp[i][n];
-        int take1=noOfWays(i+1,n-1,dp);
-        int take2=noOfWays(i+2,n-2,dp);
-        return dp[i][n]=take1+take2;
+    int climbStairs(int n,vector<int>& dp) {
+       if(n==0) return 1;
+       if(dp[n]!=-1) return dp[n];
+       int left=0,right=0;
+        if(n-1>=0)
+       left=climbStairs(n-1);
+       if(n-2>=0)
+       right=climbStairs(n-2);
+       return dp[n]=left+right; 
     }
     int climbStairs(int n) {
-        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        return noOfWays(0,n,dp);
+       vector<int> dp(n+1,-1);
+      
+       dp[0]=1;
+       for(int i=1;i<=n;i++){
+         int left=0,right=0;
+         if(i-1>=0)
+       left=dp[i-1];
+       if(i-2>=0)
+       right=dp[i-2];
+       dp[i]=left+right;
+       }
+       
+         return dp[n];
     }
 };
