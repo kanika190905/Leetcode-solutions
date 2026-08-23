@@ -20,11 +20,7 @@ int cnt=0;
         vector<bool> visited(n,0);
         dfs1(0,visited,adj);
         
-        for(int i=0;i<n;i++){
-            if(!visited[i]){
-               dfs1(i,visited,adj); 
-            }
-        }
+       
         return cnt;
     }
 };
