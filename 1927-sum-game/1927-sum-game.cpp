@@ -19,9 +19,6 @@ public:
        
         if ((ques1 + ques2) % 2 == 1)
             return true;
-        if (ques1 == ques2)
-            return sum1 != sum2;
-
         return 2 * (sum1 - sum2) != 9 * (ques2 - ques1);
     }
 };
