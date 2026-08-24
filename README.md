@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanika190905/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kanika190905/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kanika190905/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/kanika190905/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanika190905/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/kanika190905/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kanika190905/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kanika190905/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2540-minimum-common-value](https://github.com/kanika190905/Leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kanika190905/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanika190905/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kanika190905/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1768-merge-strings-alternately](https://github.com/kanika190905/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kanika190905/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kanika190905/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kanika190905/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/kanika190905/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/kanika190905/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kanika190905/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1903-largest-odd-number-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/kanika190905/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/kanika190905/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
