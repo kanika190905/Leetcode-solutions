@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/kanika190905/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kanika190905/Leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kanika190905/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanika190905/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/kanika190905/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/kanika190905/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/kanika190905/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/kanika190905/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kanika190905/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/kanika190905/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1872-stone-game-viii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kanika190905/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kanika190905/Leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -900,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanika190905/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/kanika190905/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/kanika190905/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search Tree
@@ -1094,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kanika190905/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/kanika190905/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kanika190905/Leetcode-solutions/tree/master/1927-sum-game) |
 ## Longest Increasing Subsequence
 |  |
@@ -1146,10 +1151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Bipartite Graph
 |  |
 | ------- |
