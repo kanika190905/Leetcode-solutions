@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kanika190905/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanika190905/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kanika190905/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanika190905/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/kanika190905/Leetcode-solutions/tree/master/0443-string-compression) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kanika190905/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/kanika190905/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
