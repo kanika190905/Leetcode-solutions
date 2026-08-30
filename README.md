@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kanika190905/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/kanika190905/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0413-arithmetic-slices](https://github.com/kanika190905/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanika190905/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kanika190905/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/kanika190905/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanika190905/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/kanika190905/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/kanika190905/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
