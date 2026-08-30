@@ -7,9 +7,9 @@ public:
         int i=0,j=1,ans=0,maxi=INT_MIN;
         while( j<nums.size() && i<j){
             if(diff==(nums[j]-nums[j-1])){
-                j++;
                 cnt++;
-                maxi=max(maxi,j-i);
+                maxi=max(maxi,j-i+1);
+                j++;
             }
             else if(cnt>=3){
                 ans+=(((maxi-1)*(maxi-2))/2);
