@@ -14,7 +14,7 @@ public:
         }
         else{
             ans+=solve(idx+1,tight && (0==limit),false,dp,n,length);
-            if(limit>=1)
+            if(limit==1)
             ans+=solve(idx+1,tight&& (limit==1),true,dp,n,length);
         }
         return dp[idx][tight][one]=ans;
