@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/kanika190905/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/kanika190905/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/kanika190905/Leetcode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kanika190905/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
