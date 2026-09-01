@@ -1,23 +1,26 @@
 class Solution {
 public:
-    bool isTrue(int n){
-        bool changed=false;
-        while(n){
-            int x=n%10;
-            if(x==2 || x==5 || x==9 ||x==6) 
-            changed = true;;
-            if(x==3 || x==4 || x==7) return false;
-            n/=10;
+    int solve(int idx,bool tight,bool is_good,vector<vector<vector<int>>> &dp,string &s){
+        if(idx==s.size()){
+            if(is_good==1) return 1;
+            return 0;
         }
-        return changed;
+        if(dp[idx][tight][is_good]!=-1) return dp[idx][tight][is_good];
+        int ans=0;
+        int limit=tight?s[idx]-'0':9;
+        for(int d=0;d<=limit;d++){
+            if(d==3||d==7||d==4) continue;
+            bool newTight=tight&&(d==limit);
+           bool new_good=is_good;
+            if(d==2||d==5||d==6||d==9)
+             new_good=true;
+            ans+=solve(idx+1,newTight,new_good,dp,s);
+        }
+        return dp[idx][tight][is_good]=ans;
     }
     int rotatedDigits(int n) {
-        int cnt=0;
-      for(int i=1;i<=n;i++){
-        if(isTrue(i)){
-            cnt++;
-        }
-      }  
-      return cnt;
+        string s=to_string(n);
+        vector<vector<vector<int>>> dp(6,vector<vector<int>>(2,vector<int>(2,-1)));
+        return solve(0,1,0,dp,s);
     }
 };
