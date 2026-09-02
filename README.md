@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/kanika190905/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kanika190905/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/kanika190905/Leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/kanika190905/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanika190905/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kanika190905/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/kanika190905/Leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kanika190905/Leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kanika190905/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kanika190905/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kanika190905/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/kanika190905/Leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kanika190905/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/kanika190905/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0796-rotate-string) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/kanika190905/Leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1048-longest-string-chain](https://github.com/kanika190905/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanika190905/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/kanika190905/Leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanika190905/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/kanika190905/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1012-numbers-with-repeated-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
