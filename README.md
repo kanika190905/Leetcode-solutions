@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2376-count-special-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2719-count-of-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2719-count-of-integers) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2833-furthest-point-from-origin](https://github.com/kanika190905/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kanika190905/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kanika190905/Leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2719-count-of-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/kanika190905/Leetcode-solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
 ## Depth-First Search
 |  |
 | ------- |
