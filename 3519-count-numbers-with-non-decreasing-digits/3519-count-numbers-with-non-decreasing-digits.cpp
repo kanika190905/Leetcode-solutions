@@ -13,80 +13,37 @@ public:
     return s;
     }
     string convertToBaseB(string s, int b) {
-
         if (b == 10) return s;
-
-    if (s == "0") return "0";
-
-   
-
-    string baseB_rep = "";
-
-   
-
-    // Continue until the quotient becomes empty/zero
-
-    while (s != "0" && s != "") {
-
-        string next_quotient = "";
-
-        int rem = 0;
-
-       
-
-        // 1. Perform long division by 'b'
-
-        for (char c : s) {
-
-            int current_val = rem * 10 + (c - '0');
-
-            next_quotient += to_string(current_val / b);
-
-            rem = current_val % b;
-
+        if (s == "0" || s.empty()) return "0";
+        
+        // OPTIMIZATION: Use vector of ints instead of strings for the math
+        vector<int> num;
+        for (char c : s) num.push_back(c - '0');
+        
+        string baseB_rep = "";
+        
+        while (!num.empty()) {
+            int rem = 0;
+            vector<int> next_num;
+            
+            for (int digit : num) {
+                int current_val = rem * 10 + digit;
+                int q = current_val / b;
+                rem = current_val % b;
+                
+                // Add to next quotient only if it's not a leading zero
+                if (!next_num.empty() || q > 0) {
+                    next_num.push_back(q);
+                }
+            }
+            
+            baseB_rep += (char)(rem + '0'); // Fast char append instead of to_string
+            num = std::move(next_num);      // Efficiently swap to the new quotient
         }
-
-       
-
-        // 2. The remainder of this division is our next base-B digit
-
-        baseB_rep += to_string(rem);
-
-       
-
-        // 3. Remove leading zeros from the new quotient for the next iteration
-
-        int i = 0;
-
-        while (i < next_quotient.length() && next_quotient[i] == '0') {
-
-            i++;
-
-        }
-
-       
-
-        if (i == next_quotient.length()) {
-
-            s = "0"; // The quotient was all zeros
-
-        } else {
-
-            s = next_quotient.substr(i);
-
-        }
-
+        
+        reverse(baseB_rep.begin(), baseB_rep.end());
+        return baseB_rep;
     }
-
-   
-
-    // We extracted the least significant digits first, so reverse the result!
-
-    reverse(baseB_rep.begin(), baseB_rep.end());
-
-    return baseB_rep;
-
-}
     int solve(int idx,bool tight,string &s,int prev,bool leadZero,vector<vector<vector<vector<int>>>> &dp,int b){
         if(idx==s.size()){
             return 1;
