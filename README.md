@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kanika190905/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/kanika190905/Leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0940-distinct-subsequences-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/kanika190905/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/kanika190905/Leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanika190905/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/kanika190905/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1012-numbers-with-repeated-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1043-partition-array-for-maximum-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
