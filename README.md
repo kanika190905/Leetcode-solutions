@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kanika190905/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kanika190905/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kanika190905/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kanika190905/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kanika190905/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kanika190905/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/kanika190905/Leetcode-solutions/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kanika190905/Leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kanika190905/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -863,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kanika190905/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kanika190905/Leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/kanika190905/Leetcode-solutions/tree/master/0460-lfu-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -1022,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kanika190905/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanika190905/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/kanika190905/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1067,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
 | ------- |
