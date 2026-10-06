@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/kanika190905/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/kanika190905/Leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanika190905/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/kanika190905/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/kanika190905/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/kanika190905/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanika190905/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanika190905/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanika190905/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanika190905/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kanika190905/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/kanika190905/Leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanika190905/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/kanika190905/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kanika190905/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1903-largest-odd-number-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -1310,5 +1313,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kanika190905/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanika190905/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanika190905/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
