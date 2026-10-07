@@ -12,7 +12,7 @@ public:
             }
             int s=l;
             if(cntOdd==k) {
-               while(nums[s]%2==0){
+               while(s<=r && nums[s]%2==0){
                 cnt++;
                 s++;
                }
