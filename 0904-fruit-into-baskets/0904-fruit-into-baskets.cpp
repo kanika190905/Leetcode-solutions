@@ -1,41 +1,27 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        set<int> st;
-        int left=0;
-        int ans=0;
-        int maxi=0;
-        vector<int> freq(100000,0);
-          left=0;
-          int last1=0;
-          int last2=0;
-          bool flag=true;
-        for(int i=0;i<fruits.size();i++){
-         
-            st.insert(fruits[i]);
-             if(fruits[i]==fruits[last1] && last1>last2){
-                flag=false;
-            }
-            while(st.size()>2){
-                freq[fruits[left]]--;
-                ans--;
+        int l = 0, r = 0;
+        int ans = 0;
 
-                if(freq[fruits[left]]==0){
-                    st.erase(fruits[left]);
-                }
+        unordered_map<int, int> mp;
 
-                left++;
+        while(r < fruits.size()) {
+            mp[fruits[r]]++;
+
+            while(mp.size() > 2) {
+                mp[fruits[l]]--;
+
+                if(mp[fruits[l]] == 0)
+                    mp.erase(fruits[l]);
+
+                l++;
             }
-           
-            
-               if(fruits[last1]!=fruits[i] && last1==last2 && fruits[i]!=fruits[last2]){
-                last2=i;
-            }
-            freq[fruits[i]]++;
-            ans++;
-            maxi=max(maxi,ans);
+
+            ans = max(ans, r - l + 1);
+            r++;
         }
-        return maxi;
-        
+
+        return ans;
     }
 };
