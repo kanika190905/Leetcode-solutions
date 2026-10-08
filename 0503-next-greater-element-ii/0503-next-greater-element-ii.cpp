@@ -6,8 +6,10 @@ public:
         stack<int> st;
 
         for(int i = 2*n - 1; i >= 0; i--){
-            while(!st.empty() && st.top() <= nums[i % n])
+            if(i<n){
+            while(!st.empty() && st.top() <= nums[i])
                 st.pop();
+            }
 
             if(i < n && !st.empty())
                 ans[i] = st.top();
