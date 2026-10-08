@@ -1,43 +1,34 @@
 class Solution {
-    int getpivot(vector<int>& arr){
-    int s=0,e=arr.size()-1;
-    while(s<e){
-        int mid=s+(e-s)/2;
-        if(arr[mid]>=arr[0])
-            s=mid+1;
-        else
-            e=mid;
-    }
-    return s;
-}
-int binsearch(vector<int>& arr,int initial,int final,int key){
-	
-	
-	while(initial<=final){
-		
-		int mid=initial+(final-initial)/2;
-		if(arr[mid]==key){
-			return mid;
-			
-		}
-		else if(arr[mid]<key){
-			initial=mid+1;
-			
-		}
-		else{
-	         final=mid-1;
-		}
-	
-	}
-	return -1;
-}
 public:
     int search(vector<int>& nums, int target) {
-        int pivot = getpivot(nums);
-        int n = nums.size();
-        if (target >= nums[pivot] && target <= nums[n - 1]) {
-            return binsearch(nums, pivot, n - 1, target);
+      
+        vector<int>& arr=nums;
+        int n=nums.size();
+    int low = 0, high = n - 1;
+
+    while (low <= high) {
+        int mid = (low + high) / 2;
+
+        if (arr[mid] == target)
+            return mid;
+
+        // Left half is sorted
+        if (arr[low] <= arr[mid]) {
+            if (arr[low] <= target && target <= arr[mid])
+                high = mid - 1;
+            else
+                low = mid + 1;
         }
-        return binsearch(nums, 0, pivot - 1, target);
+        // Right half is sorted
+        else {
+            if (arr[mid] <= target && target <= arr[high])
+                low = mid + 1;
+            else
+                high = mid - 1;
+        }
+    }
+
+    return -1;
+ 
     }
 };
