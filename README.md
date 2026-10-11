@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/kanika190905/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/kanika190905/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kanika190905/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/kanika190905/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/kanika190905/Leetcode-solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kanika190905/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kanika190905/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kanika190905/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kanika190905/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
