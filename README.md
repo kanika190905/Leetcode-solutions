@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/kanika190905/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/kanika190905/Leetcode-solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kanika190905/Leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kanika190905/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/kanika190905/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/kanika190905/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kanika190905/Leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kanika190905/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kanika190905/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1105,12 +1107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/kanika190905/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kanika190905/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
