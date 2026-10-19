@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kanika190905/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/kanika190905/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/kanika190905/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/kanika190905/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3453-separate-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kanika190905/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanika190905/Leetcode-solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kanika190905/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/kanika190905/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanika190905/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/kanika190905/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
