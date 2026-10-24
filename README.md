@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/kanika190905/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2376-count-special-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2376-count-special-integers) |
+| [2409-count-days-spent-together](https://github.com/kanika190905/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2719-count-of-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/kanika190905/Leetcode-solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/kanika190905/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kanika190905/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kanika190905/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2409-count-days-spent-together](https://github.com/kanika190905/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2719-count-of-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2833-furthest-point-from-origin](https://github.com/kanika190905/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
