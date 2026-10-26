@@ -1,14 +1,29 @@
 class Solution {
 public:
     int winningPlayerCount(int n, vector<vector<int>>& pick) {
-        map<pair<int,int>,int> mp;
-        set<int> s;
-        int cnt=0;
-        for(auto it:pick){
-            mp[{it[0],it[1]}]++;
-            if((mp[{it[0],it[1]}]==it[0]+1)&& (s.find(it[0])==s.end())){ s.insert(it[0]);cnt++;}
+        vector<vector<int>> cnt(n, vector<int>(11, 0));
+        int ans = 0;
+
+        for (auto &p : pick) {
+            int player = p[0];
+            int color = p[1];
+
+            cnt[player][color]++;
         }
-        
-        return cnt;
+
+        vector<int> win(n, 0);
+
+        for (auto &p : pick) {
+            int player = p[0];
+            if (cnt[player][p[1]] > player) {
+                win[player] = 1;
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            ans += win[i];
+        }
+
+        return ans;
     }
 };
