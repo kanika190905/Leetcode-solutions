@@ -831,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kanika190905/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/kanika190905/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kanika190905/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kanika190905/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/kanika190905/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanika190905/Leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kanika190905/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/kanika190905/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kanika190905/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/kanika190905/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kanika190905/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanika190905/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/kanika190905/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kanika190905/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kanika190905/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1246,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/kanika190905/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kanika190905/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/kanika190905/Leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/kanika190905/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
