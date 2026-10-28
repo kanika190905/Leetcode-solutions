@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kanika190905/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kanika190905/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanika190905/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanika190905/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/kanika190905/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanika190905/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kanika190905/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kanika190905/Leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/kanika190905/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanika190905/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanika190905/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kanika190905/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kanika190905/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/kanika190905/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanika190905/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanika190905/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanika190905/Leetcode-solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/kanika190905/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -1184,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/kanika190905/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/kanika190905/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanika190905/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanika190905/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/kanika190905/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kanika190905/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1903-largest-odd-number-in-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
