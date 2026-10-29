@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/kanika190905/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1168-duplicate-zeros](https://github.com/kanika190905/Leetcode-solutions/tree/master/1168-duplicate-zeros) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kanika190905/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kanika190905/Leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanika190905/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/kanika190905/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kanika190905/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kanika190905/Leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/kanika190905/Leetcode-solutions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kanika190905/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
