@@ -7,25 +7,24 @@ public:
             return 1;
         }
         if(dp[i][j]!=-1) return dp[i][j];
-        long long ans=0;
-        // humei down jana hai 
+        long long ans=0; 
         int x=i+1,y=j;
         bool goingDown = true;
         while(x<m && y<n && grid[x][y]==1){
-            if (goingDown) y++;   // Came from top, reflect right
-            else x++;             // Came from left, reflect down
-            goingDown = !goingDown; // Alternate direction
+            if (goingDown) y++;   
+            else x++;            
+            goingDown = !goingDown; 
         }
         if (x < m && y < n)
             ans = (ans + solve(x, y, grid,dp)) % MOD;
             
-        // humei right jana hai (moving RIGHT)
+
         x=i, y=j+1;
         bool goingRight = true;
         while(x<m && y<n && grid[x][y]==1){
-            if (goingRight) x++;   // Came from left, reflect down
-            else y++;              // Came from top, reflect right
-            goingRight = !goingRight; // Alternate direction
+            if (goingRight) x++;   
+            else y++;              
+            goingRight = !goingRight; 
         }
         if (x < m && y < n)
             ans = (ans + solve(x, y, grid,dp)) % MOD;
