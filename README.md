@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanika190905/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanika190905/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/kanika190905/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1395-count-number-of-teams](https://github.com/kanika190905/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanika190905/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kanika190905/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kanika190905/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kanika190905/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kanika190905/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1395-count-number-of-teams](https://github.com/kanika190905/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kanika190905/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kanika190905/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/kanika190905/Leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -1181,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kanika190905/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/kanika190905/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1649-create-sorted-array-through-instructions](https://github.com/kanika190905/Leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
@@ -1190,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kanika190905/Leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kanika190905/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/kanika190905/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1649-create-sorted-array-through-instructions](https://github.com/kanika190905/Leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
