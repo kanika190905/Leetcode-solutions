@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/kanika190905/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanika190905/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1882-process-tasks-using-servers](https://github.com/kanika190905/Leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/kanika190905/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -1151,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanika190905/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/kanika190905/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/kanika190905/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/kanika190905/Leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/kanika190905/Leetcode-solutions/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kanika190905/Leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
