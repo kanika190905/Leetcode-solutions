@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2833-furthest-point-from-origin](https://github.com/kanika190905/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kanika190905/Leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kanika190905/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
