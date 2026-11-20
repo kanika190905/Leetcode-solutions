@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kanika190905/Leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kanika190905/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kanika190905/Leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kanika190905/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3238-find-the-number-of-winning-players](https://github.com/kanika190905/Leetcode-solutions/tree/master/3238-find-the-number-of-winning-players) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kanika190905/Leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/kanika190905/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kanika190905/Leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/kanika190905/Leetcode-solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/kanika190905/Leetcode-solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kanika190905/Leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3665-twisted-mirror-path-count](https://github.com/kanika190905/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/kanika190905/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
