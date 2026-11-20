@@ -1,59 +1,52 @@
 class Solution {
-    int count=0;
 public:
+     long long query(long long idx,vector<int>& bits){
+        long long sum=0;
+        while(idx>0){
+            sum+=bits[idx];
+            idx-= idx& (-idx);
 
-void merge(vector<int> &arr, int low, int mid, int high) {
-    vector<int> temp;
-    int left = low;
-    int right = mid + 1;
-
-    while (left <= mid && right <= high) {
-        if (arr[left] <= arr[right]) {
-            temp.push_back(arr[left]);
-            left++;
-        } else {
-            temp.push_back(arr[right]);
-            right++;
+        }
+        return sum;
+    }
+    void update(long long idx,vector<int>& bits,long long size){
+        while(idx<=size){
+            bits[idx]++;
+            idx+=idx& (-idx);
         }
     }
-
-    while (left <= mid) {
-        temp.push_back(arr[left]);
-        left++;
-    }
-
-    while (right <= high) {
-        temp.push_back(arr[right]);
-        right++;
-    }
-
-    for (int i = low; i <= high; i++) {
-        arr[i] = temp[i - low];
-    }
-}
-void countPairs(vector<int> &arr, int low, int mid, int high){
-    int right=mid+1;
-    for(int i=low;i<=mid;i++){
-        while(right <= high && arr[i] > (long long)2*arr[right]) right++;
-        count+=right-(mid+1);
-    }
-}
-void mergeSort(vector<int> &arr, int low, int high) {
-    if (low >= high) return;
-
-    int mid = (low + high) / 2;
-
-    mergeSort(arr, low, mid);
-    mergeSort(arr, mid + 1, high);
-
-    countPairs(arr,low,mid,high);
-
-    merge(arr, low, mid, high);
-}
-
     int reversePairs(vector<int>& nums) {
-        mergeSort(nums,0,nums.size()-1);
+        
+         int n=nums.size();
+         long long maxi=nums[0];
+         int mini=nums[0];
+         vector<long long> temp;
+        for (int x : nums) {
+    temp.push_back(x);
+    temp.push_back(2LL * x);
+}
+        sort(temp.begin(),temp.end());
+        map<long long,int> mp;
+        int counter=1;
+        for(int i=0;i<temp.size();i++){
+            if(mp[temp[i]]!=0){
+                continue;
+            }
+            mp[temp[i]]=counter;
+            counter++;
+        }
+         for(int x:nums){
+            maxi=max(maxi,(long long)x);
+            mini=min(mini,x);
+         }
+        
+        
+        vector<int> bits(counter+1,0);
+       int count = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            count += query(mp[nums[i]] - 1, bits);
+            update(mp[2LL*nums[i]], bits, counter);
+        }
         return count;
-
     }
 };
