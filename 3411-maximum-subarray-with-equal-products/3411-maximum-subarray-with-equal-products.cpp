@@ -4,9 +4,9 @@ public:
     int maxLength(vector<int>& nums) {
         int n = nums.size();
         int ans = 1;
-        int maxVal = 0, totalLcm = 1;
+        int maxVal = INT_MAX, totalLcm = 1;
         for (int x : nums) {
-            maxVal = max(maxVal, x);
+            maxVal = min(maxVal, x);
             totalLcm = lcm(totalLcm, x);
         }
         long long maxP = 1LL * totalLcm * maxVal;
