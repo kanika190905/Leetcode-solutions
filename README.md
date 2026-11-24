@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/kanika190905/Leetcode-solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/kanika190905/Leetcode-solutions/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanika190905/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3453-separate-squares-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kanika190905/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kanika190905/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-count-the-number-of-powerful-integers](https://github.com/kanika190905/Leetcode-solutions/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanika190905/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanika190905/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kanika190905/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kanika190905/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kanika190905/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kanika190905/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanika190905/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kanika190905/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kanika190905/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanika190905/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kanika190905/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kanika190905/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
@@ -700,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kanika190905/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kanika190905/Leetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kanika190905/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanika190905/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kanika190905/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kanika190905/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
